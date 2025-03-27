@@ -1,0 +1,40 @@
+# Google Sites Deployment Guide ## Overview This guide provides instructions for uploading and organizing the HTML files for the "Building Relationships: The Heart of Effective Teaching" professional development materials on Google Sites. ## Prerequisites - A Google account - Access to Google Sites (sites.google.com) - The teacher_pd_html.zip file containing all HTML files ## Step 1: Create a New Google Site 1. Go to [Google Sites](https://sites.google.com) 2. Click on the "+" button to create a new site 3. Name your site (e.g., "Teacher Professional Development - Building Relationships") 4. Choose a theme that matches the professional look of the materials ## 
+
+Step 2: Prepare Your Files 
+1. Extract the teacher_pd_html.zip file on your computer 
+2. You'll see all the HTML files organized in the teacher_pd_html folder ## Step 
+3: Create Site Structure Create the following pages on your Google Site to match the organization of the materials: 1. Home (main page) 2. Activities 3. Resources 4. Materials 5. About ##
+
+Step 4: Upload HTML Content For each page: 
+1. Click on the page where you want to add content 
+2. Click the "Embed" button (looks like "" in the right sidebar) 
+3. Select "Embed code"
+4. Open the corresponding HTML file from your extracted folder 
+5. Copy the content between the `` and `` tags 
+6. Paste this content into the embed code field 
+7. Click "Next" and then "Insert" ## 
+
+Step 5: Set Up Navigation 
+1. Click on "Navigation" in the right sidebar 
+2. Ensure all your created pages are included in the navigation menu 
+3. Arrange them in a logical order (Home, Activities, Resources, Materials, About) ## 
+
+Step 6: Add Index Links to Home Page 
+1. Go to your Home page 
+2. Open the index.html file from your extracted folder 
+3. Copy the content between the `
+` and `  ` tags 
+4. Add this content to your Home page using the embed code method described above ## 
+
+Step 7: Publish Your Site 
+1. Click the "Publish" button in the top right corner 
+2. Choose your preferred URL (if available) 
+3. Set appropriate sharing settings (public or restricted to your organization) 
+4. Click "Publish" to make your site live ## 
+
+Alternative Approach: Using Google Drive If embedding HTML doesn't work well with Google Sites, you can: 
+1. Upload all HTML files to Google Drive 
+2. Make them publicly accessible (or accessible to your target audience) 
+3. Create links on your Google Site that point to these files in Google Drive ## Tips for Google Sites - Use the "Themes" panel to customize colors and fonts to match the professional development materials - Add a site logo if you have one - Use the "Insert" menu to add images, buttons, and other elements to enhance your pages - Preview your site regularly to ensure it looks good on different devices ## 
+
+Need Help? If you encounter any issues with Google Sites deployment, refer to the [Google Sites Help Center](https://support.google.com/sites/).
